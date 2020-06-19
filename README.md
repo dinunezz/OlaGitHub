@@ -1,3 +1,2 @@
-# OlaMundo
- Meu primeiro repositorio
- Repositório para estudo
+# Olá, Git
+ Meu primeiro repositorio para estudo.
