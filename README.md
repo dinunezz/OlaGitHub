@@ -8,7 +8,7 @@
 ```
 
 **Inserindo Emoji:**
-:monkey: :hand: :neckbeard: :octocat:
+:monkey: :hand: :neckbeard: :octocat: :+1:
 [Lista Completa](https://gist.github.com/rxaviers/7360908)
 
 **Inserindo Lista Demarcada:**
@@ -29,4 +29,4 @@ Col1 | Col2 | Col3
 2 | Dani | 1
 3 | Lucas | 2
 
-[Manual Do MarkDown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+>[Manual Do MarkDown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
